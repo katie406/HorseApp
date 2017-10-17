@@ -1,0 +1,15 @@
+{
+  "name": "katiepederson",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "mocha . "
+  },
+  "author": "Katie Pederson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
